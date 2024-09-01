@@ -9,6 +9,6 @@
 - ⚡ Fun fact: ...
 
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyservice781)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyservice781)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=180&section=footer&text=copyright.JyService781&fontSize=14" />
