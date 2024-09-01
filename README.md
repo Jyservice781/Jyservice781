@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=180&section=header&text=JyService781.gitHome&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9DBDFF&height=180&section=header" />
 
 - 👋 Hi, I’m @Jyservice781
 - 👀 I’m interested in ...
@@ -8,7 +8,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- 
-[![Jyservice781's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jyservice781)](https://github.com/anuraghazra/github-readme-statsicons=true&theme=radical)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=180&section=footer&text=copyright.JyService781&fontSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9DBDFF&height=180&section=footer" />
