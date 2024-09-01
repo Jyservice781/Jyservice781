@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=48CFCB&height=180&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=446DE7&height=180&section=header" />
 
 - 👋 Hi, I’m @Jyservice781
 - 👀 I’m interested in ...
@@ -8,4 +8,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=48CFCB&height=180&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=446DE7&height=180&section=footer" />
