@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=446DE7&height=180&section=header" />
 
-- 👋 Hi, I’m <strong>@Jyservice781</strong>
-- 👀 I'm interested in developing myself, so studing hard day and day
-- 🌱 I'm a plant grower. The plants I'm currently growing are olive trees and rosemary 🪴
+ 👋Hi, I’m <strong>@Jyservice781</strong>
+ I'm interested in developing myself, so studing hard day and day
+ I'm a plant grower. The plants I'm currently growing are olive trees 🪴 and rosemary 🌱
   
 
 ## Dev skils
