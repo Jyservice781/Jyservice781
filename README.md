@@ -4,7 +4,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
-##Dev skils
+## Dev skils
 <div>
   <a href="#/"><img src="https://img.shields.io/badge/nextjs-000000?style=flat-square&logo=nextjs&logoColor=white"/></a>
   <a href="#/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
@@ -15,7 +15,7 @@
   <a href="#/"><img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>
 </div>
 
-##Design tools
+## Design tools
 
 <div>
   <a href="#/"><img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>
