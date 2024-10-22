@@ -1,8 +1,9 @@
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=446DE7&height=180&section=header" />
 
- 👋Hi, I’m <strong>@Jyservice781</strong>
- I'm interested in developing myself, so studing hard day and day
- I'm a plant grower. The plants I'm currently growing are olive trees 🪴 and rosemary 🌱
+ ### 👋Hi, I’m <strong>@Jyservice781</strong>
+ ### I'm interested in developing myself, so studing hard day and day
+ ### I'm a plant grower. The plants I'm currently growing are olive trees 🪴 and rosemary 🌱
   
 
 ## Dev skils
@@ -29,9 +30,10 @@
 ## DevOps 
 <div>
   <a href="#/"><img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyservice781&langs_count=8)](https://github.com/Jyservice781/github-readme-stats)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=446DE7&height=180&section=footer" />
+</div>
