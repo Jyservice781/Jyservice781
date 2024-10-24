@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=446DE7&height=180&section=header" />
 
-![mimoticon](https://github.com/user-attachments/assets/550230d1-56d2-456f-b403-8c6b6ed681b6)
+![mimoticonx100](https://github.com/user-attachments/assets/aa6ac4ac-13e4-4ca6-ab38-a5408585dc78)
 
  ### 👋 Hi, I’m <strong>@Jyservice781</strong>
  ### 👍 I'm interested in developing myself, so studing hard day and day
