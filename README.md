@@ -41,6 +41,6 @@
 </div>
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Jyservice781=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyservice781anuraghazra&layout=compact)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=446DE7&height=180&section=footer" />
 </div>
