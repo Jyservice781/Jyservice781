@@ -11,7 +11,7 @@
 
 ## Dev skils
 <div>
-  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
