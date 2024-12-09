@@ -3,9 +3,9 @@
 
 ![mimoticonx100](https://github.com/user-attachments/assets/aa6ac4ac-13e4-4ca6-ab38-a5408585dc78)
 
- ### 👋 Hi, I’m <strong>@Jyservice781</strong>
- ### 👍 I'm interested in developing myself, so studing hard day and day
- ### 🌱 I'm a plant grower. The plants I'm currently growing are olive trees 🪴 and rosemary 🌱
+ ### 👋 안녕하세요 <strong>@Jyservice781</strong> 입니다.
+ ### 👍 자기자신의 성장에 재미를 느끼며, 하루하루 공부하고 있습니다.
+ ### 🌱 식물을 기르는 취미가 있습니다. 현재 올리브 나무와🪴 로즈마리🌱 를 키우고 있습니다.
   
 <br>
 
