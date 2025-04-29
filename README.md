@@ -1,4 +1,5 @@
-![mimoticonx100](https://github.com/user-attachments/assets/aa6ac4ac-13e4-4ca6-ab38-a5408585dc78)
+<div align="center">
+ ![mimoticonx100](https://github.com/user-attachments/assets/aa6ac4ac-13e4-4ca6-ab38-a5408585dc78)
 
  ### 👋 안녕하세요 <strong>@Jyservice781</strong> 입니다.
  ### 👍 자기자신의 성장에 재미를 느끼며, 하루하루 공부하고 있습니다.
@@ -43,3 +44,5 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyservice781&hide=Java)](https://github.com/Jyservice781/github-readme-stats)
+
+</div>
