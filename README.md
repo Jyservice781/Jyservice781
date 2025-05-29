@@ -1,49 +1,37 @@
-<div align="center">
- 
-![mimoticonx100](https://github.com/user-attachments/assets/aa6ac4ac-13e4-4ca6-ab38-a5408585dc78)
+# ![mimoticonx10](https://github.com/user-attachments/assets/aa6ac4ac-13e4-4ca6-ab38-a5408585dc78) 김주영 - Frontend Developer
 
- ### 👋 안녕하세요 <strong>@Jyservice781</strong> 입니다.
- ### 👍 자기자신의 성장에 재미를 느끼며, 하루하루 공부하고 있습니다.
- ### 🌱 식물을 기르는 취미가 있습니다. 현재 올리브 나무와🪴 로즈마리🌱 를 키우고 있습니다.
-  
-<br>
+안녕하세요, **사용자 중심의 UI/UX**와 **안정적인 프론트엔드 아키텍처 설계**에 집중하는 개발자 김주영입니다.  
+React와 Next.js를 중심으로 사용자에게 직관적이고 반응성 높은 경험을 제공하는 데 공부하고 있습니다.
 
-## Dev skils
-<div>
-  <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
 
-<br>
+## ⛓️ Connect
+- **Email**: juyeoung.dev@gmail.com
+- **GitHub**: [github.com/Jyservice781](https://github.com/Jyservice781)
 
-## Design tools
-<br>
 
-<div>
-  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
+## 🛠 기술 스택
 
-<br>
+### Frontend
+- **React**, **Next.js**
+- **TypeScript**, JavaScript (ES6+)
+- **Redux Toolkit**, Zustand
+- **Tailwind CSS**
 
-## DevOps 
-<br>
-<div>
-  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</div>
+### 협업 및 환경
+- GitHub
+- Figma 
+- Jira, Notion, Slack
+- Vercel, Docker
 
-<br>
+## 🧑‍💼 경험
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyservice781&hide=Java)](https://github.com/Jyservice781/github-readme-stats)
+| 기간 | 소속 | 역할 |
+|------|------|------|
+| 2023.02 ~ 2023.07 | UIUX 퍼블리셔 | Figma 기반 퍼블리싱, photoshop, illustrator |
+| 2024.04 ~ 2024.11 | 풀스택 기반 클라우드 개발 | nextjs vercel 로 배포하여 프론트 최적화 프로젝트 진행 |
+| 2025.01 ~ 2025.03 | 프론트엔드 심화 개발 | clean architecture를 중점으로 심화 프로젝트 진행 |
 
-</div>
+---
+
+
+> ### 꾸준히 배우고 성장하며, 사용자의 경험을 최우선으로 생각하는 개발자가 되겠습니다.
