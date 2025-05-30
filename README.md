@@ -1,13 +1,11 @@
 # ![mimoticonx10](https://github.com/user-attachments/assets/aa6ac4ac-13e4-4ca6-ab38-a5408585dc78) 김주영 - Frontend Developer
 
-안녕하세요, **사용자 중심의 UI/UX**와 **안정적인 프론트엔드 아키텍처 설계**에 집중하는 개발자 김주영입니다.  
-React와 Next.js를 중심으로 사용자에게 직관적이고 반응성 높은 경험을 제공하는 데 공부하고 있습니다.
+안녕하세요, **사용자 중심의 UI/UX**와 **안정적인 프론트엔드 아키텍처 설계**에 집중하는 프론트엔드 개발자 김주영입니다.  
+Next.js를 중심으로 사용자에게 직관적이고 높은 사용자 경험을 제공하고자 공부하고 있습니다.
 
 
 ## ⛓️ Connect
 - **Email**: juyeoung.dev@gmail.com
-- **GitHub**: [github.com/Jyservice781](https://github.com/Jyservice781)
-
 
 ## 🛠 기술 스택
 
